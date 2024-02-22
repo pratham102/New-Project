@@ -78,9 +78,11 @@ SUCCESSFULL AUTHENTICATION WELCOME PAGE
 
 ![Screenshot 2024-02-23 022328](https://github.com/pratham102/New-Project/assets/108538504/5b2c4523-50a1-485f-a27a-0112d84b6b78)
 
-ADD NEW ITEMS
+ADDING NEW ITEMS
 
 ![image](https://github.com/pratham102/New-Project/assets/108538504/8214e058-d4ed-48ff-8e80-035ed30728c0)
+
+![image](https://github.com/pratham102/New-Project/assets/108538504/8ac9b041-29bd-4f05-91a3-09d1afc4d0c9)
 
 
 
