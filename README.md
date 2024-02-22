@@ -86,5 +86,3 @@ If you'd like to contribute to the Online Product Management System, please foll
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
-
-
