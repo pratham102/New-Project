@@ -41,6 +41,7 @@ List of features provided by the Online Product Management System:
 To install and run the Online Product Management System locally, follow these steps:
 
 1. Clone the repository to your local machine.
+
 2. Navigate to the project directory.
 3. Set up a local web server environment (e.g., XAMPP, WAMP, MAMP).
 4. Import the database schema provided in the `database.sql` file into your MySQL database.
@@ -61,12 +62,10 @@ Once the Online Product Management System is installed and running, follow these
 
 ---
 
-## Screenshots
+## LOCAL 
 
-Include screenshots or images showcasing the Online Product Management System in action. 
-
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![DASHBOARD](![Screenshot 2024-02-23 020301](https://github.com/pratham102/New-Project/assets/108538504/b593d58f-9ebd-44b9-9df0-861106247041)
+)
 
 ---
 
