@@ -7,10 +7,11 @@ This project is an online product management system designed to help users manag
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Running the Application Locally.](#running.)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Running the Application Locally.](#Running.)
+
 
 ---
 
