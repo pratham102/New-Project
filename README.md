@@ -12,7 +12,7 @@ This project is an online product management system designed to help users manag
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+- [Instructions for setting up and running the application locally.](#instruction for setting up and running the application locally.)
 
 ---
 
@@ -62,7 +62,7 @@ Once the Online Product Management System is installed and running, follow these
 
 ---
 
-## LOCAL 
+## Instructions for setting up and running the application locally.
 
 DASHBOARD ![Screenshot 2024-02-23 020301](https://github.com/pratham102/New-Project/assets/108538504/b593d58f-9ebd-44b9-9df0-861106247041)
 REGISTRATION PAGE 
@@ -90,27 +90,13 @@ UPDATING ITEMS
 
 ![image](https://github.com/pratham102/New-Project/assets/108538504/09423187-9cd4-4cc6-ae17-85a6edd87c9f)
 
+AFTER UPDATING PAGE
 
+![image](https://github.com/pratham102/New-Project/assets/108538504/a30172f2-438b-4198-a30f-f8542699502a)
 
+DELETING ITEMS
 
-
-
-
----
-
-## Contributing
-
-If you'd like to contribute to the Online Product Management System, please follow these guidelines:
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
+![image](https://github.com/pratham102/New-Project/assets/108538504/0c0ec3d1-d0cf-4945-abc1-a989568a9ed7)
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
