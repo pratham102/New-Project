@@ -61,7 +61,7 @@ AFTER ADDING ITEMS
 
 UPDATING ITEMS
 
-![image](https://github.com/pratham102/New-Project/assets/108538504/ae048f64-1499-47f1-969c-87aaecff3998)
+![image](https://github.com/pratham102/New-Project/assets/108538504/f4c9b7ef-a83e-4d31-97b8-112782fd7f9a)
 
 
 AFTER UPDATING PAGE
