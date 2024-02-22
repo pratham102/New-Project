@@ -10,7 +10,7 @@ This project is an online product management system designed to help users manag
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Instructions for setting up and running the application locally.](#instructionforsettingupandrunningtheapplicationlocally.)
+- [Running the Application Locally.](#Running.)
 
 ---
 
@@ -33,6 +33,44 @@ List of features provided by the Online Product Management System:
 - Responsive and intuitive user interface
 
 ---
+## Running the Application Locally.
+
+DASHBOARD ![Screenshot 2024-02-23 020301](https://github.com/pratham102/New-Project/assets/108538504/b593d58f-9ebd-44b9-9df0-861106247041)
+REGISTRATION PAGE 
+
+![Screenshot 2024-02-23 021244](https://github.com/pratham102/New-Project/assets/108538504/b4e71291-a2ec-4531-b926-3a64e9608a92)
+
+
+LOGIN PAGE
+
+![Screenshot 2024-02-23 021920](https://github.com/pratham102/New-Project/assets/108538504/ec1fcaae-6b28-4570-9a96-283a8b44c941)
+
+SUCCESSFUL AUTHENTICATION WELCOME PAGE
+
+![Screenshot 2024-02-23 022328](https://github.com/pratham102/New-Project/assets/108538504/5b2c4523-50a1-485f-a27a-0112d84b6b78)
+
+ADDING NEW ITEMS
+
+![image](https://github.com/pratham102/New-Project/assets/108538504/8214e058-d4ed-48ff-8e80-035ed30728c0)
+
+AFTER ADDING ITEMS
+
+![image](https://github.com/pratham102/New-Project/assets/108538504/8ac9b041-29bd-4f05-91a3-09d1afc4d0c9)
+
+UPDATING ITEMS
+
+![image](https://github.com/pratham102/New-Project/assets/108538504/09423187-9cd4-4cc6-ae17-85a6edd87c9f)
+
+AFTER UPDATING PAGE
+
+![image](https://github.com/pratham102/New-Project/assets/108538504/a30172f2-438b-4198-a30f-f8542699502a)
+
+DELETING ITEMS
+
+![image](https://github.com/pratham102/New-Project/assets/108538504/0c0ec3d1-d0cf-4945-abc1-a989568a9ed7)
+
+---
+
 
 ## Installation
 
@@ -60,41 +98,4 @@ Once the Online Product Management System is installed and running, follow these
 
 ---
 
-## Instructions for setting up and running the application locally.
-
-DASHBOARD ![Screenshot 2024-02-23 020301](https://github.com/pratham102/New-Project/assets/108538504/b593d58f-9ebd-44b9-9df0-861106247041)
-REGISTRATION PAGE 
-
-![Screenshot 2024-02-23 021244](https://github.com/pratham102/New-Project/assets/108538504/b4e71291-a2ec-4531-b926-3a64e9608a92)
-
-
-LOGIN PAGE
-
-![Screenshot 2024-02-23 021920](https://github.com/pratham102/New-Project/assets/108538504/ec1fcaae-6b28-4570-9a96-283a8b44c941)
-
-SUCCESSFULL AUTHENTICATION WELCOME PAGE
-
-![Screenshot 2024-02-23 022328](https://github.com/pratham102/New-Project/assets/108538504/5b2c4523-50a1-485f-a27a-0112d84b6b78)
-
-ADDING NEW ITEMS
-
-![image](https://github.com/pratham102/New-Project/assets/108538504/8214e058-d4ed-48ff-8e80-035ed30728c0)
-
-AFTER ADDING ITEMS
-
-![image](https://github.com/pratham102/New-Project/assets/108538504/8ac9b041-29bd-4f05-91a3-09d1afc4d0c9)
-
-UPDATING ITEMS
-
-![image](https://github.com/pratham102/New-Project/assets/108538504/09423187-9cd4-4cc6-ae17-85a6edd87c9f)
-
-AFTER UPDATING PAGE
-
-![image](https://github.com/pratham102/New-Project/assets/108538504/a30172f2-438b-4198-a30f-f8542699502a)
-
-DELETING ITEMS
-
-![image](https://github.com/pratham102/New-Project/assets/108538504/0c0ec3d1-d0cf-4945-abc1-a989568a9ed7)
-
----
 
