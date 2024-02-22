@@ -1,5 +1,6 @@
 # Online Product Management System
 
+Designed and implemented a simple web application using PHP that allows users to register, log in, and perform basic CRUD (Create, Read, Update, Delete) operations on a database.
 This project is an online product management system designed to help users manage their products conveniently.
 
 ---
@@ -17,7 +18,7 @@ This project is an online product management system designed to help users manag
 
 ## Introduction
 
-The Online Product Management System is a web-based application that allows users to register, login, add products, view products, edit product details, and delete products. It provides a user-friendly interface for managing products efficiently.
+The Online Product Management System is a web-based application that allows users to register, login, add products, view products, edit product details, and delete products.At first, users need to register and login. After successful login, users can add their product data. Users can see only those data that they have added.
 
 ---
 
@@ -81,7 +82,6 @@ DELETING ITEMS
 To install and run the Online Product Management System locally, follow these steps:
 
 1. Clone the repository to your local machine.
-
 2. Navigate to the project directory.
 3. Set up a local web server environment (e.g., XAMPP, WAMP, MAMP).
 4. Import the database schema provided in the `database.sql` file into your MySQL database.
