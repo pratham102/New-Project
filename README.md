@@ -11,8 +11,7 @@ This project is an online product management system designed to help users manag
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [Instructions for setting up and running the application locally.](#instruction for setting up and running the application locally.)
+- [Instructions for setting up and running the application locally.](#instructionforsettingupandrunningtheapplicationlocally.)
 
 ---
 
