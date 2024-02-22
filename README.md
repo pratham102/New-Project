@@ -21,6 +21,12 @@ This project is an online product management system designed to help users manag
 The Online Product Management System is a web-based application that allows users to register, login, add products, view products, edit product details, and delete products. It provides a user-friendly interface for managing products efficiently.
 
 ---
+##  Instructions for setting up and running the application locally.
+
+Include screenshots or images showcasing the Online Product Management System in action. 
+
+
+---
 
 ## Features
 
@@ -58,15 +64,6 @@ Once the Online Product Management System is installed and running, follow these
 2. After logging in, you'll be redirected to the homepage.
 3. From the homepage, you can view all your products, add new products, edit existing products, or delete products as needed.
 4. Use the navigation links to move between different sections of the application.
-
----
-
-## Screenshots
-
-Include screenshots or images showcasing the Online Product Management System in action. 
-
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
 
 ---
 
