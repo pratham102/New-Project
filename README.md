@@ -74,6 +74,11 @@ LOGIN PAGE
 
 ![Screenshot 2024-02-23 021920](https://github.com/pratham102/New-Project/assets/108538504/ec1fcaae-6b28-4570-9a96-283a8b44c941)
 
+SUCCESSFULL AUTHENTICATION WELCOME PAGE
+
+![Screenshot 2024-02-23 022328](https://github.com/pratham102/New-Project/assets/108538504/5b2c4523-50a1-485f-a27a-0112d84b6b78)
+
+
 
 
 
