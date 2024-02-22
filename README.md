@@ -56,15 +56,18 @@ ADDING NEW ITEMS
 
 AFTER ADDING ITEMS
 
-![image](https://github.com/pratham102/New-Project/assets/108538504/8ac9b041-29bd-4f05-91a3-09d1afc4d0c9)
+![image](https://github.com/pratham102/New-Project/assets/108538504/c0991f8b-96e0-49cf-8f35-3634410e96ea)
+
 
 UPDATING ITEMS
 
-![image](https://github.com/pratham102/New-Project/assets/108538504/09423187-9cd4-4cc6-ae17-85a6edd87c9f)
+![image](https://github.com/pratham102/New-Project/assets/108538504/ae048f64-1499-47f1-969c-87aaecff3998)
+
 
 AFTER UPDATING PAGE
 
-![image](https://github.com/pratham102/New-Project/assets/108538504/a30172f2-438b-4198-a30f-f8542699502a)
+![image](https://github.com/pratham102/New-Project/assets/108538504/4228494e-ba08-4cf9-b0df-5ec5cf9b0fea)
+
 
 DELETING ITEMS
 
