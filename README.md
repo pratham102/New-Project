@@ -82,7 +82,13 @@ ADDING NEW ITEMS
 
 ![image](https://github.com/pratham102/New-Project/assets/108538504/8214e058-d4ed-48ff-8e80-035ed30728c0)
 
+AFTER ADDING ITEMS
+
 ![image](https://github.com/pratham102/New-Project/assets/108538504/8ac9b041-29bd-4f05-91a3-09d1afc4d0c9)
+
+UPDATING ITEMS
+
+![image](https://github.com/pratham102/New-Project/assets/108538504/09423187-9cd4-4cc6-ae17-85a6edd87c9f)
 
 
 
