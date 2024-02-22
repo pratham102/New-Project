@@ -10,7 +10,6 @@ This project is an online product management system designed to help users manag
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Instructions for setting up and running the application locally.](#instructionforsettingupandrunningtheapplicationlocally.)
 
 ---
