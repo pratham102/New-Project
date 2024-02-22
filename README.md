@@ -65,9 +65,10 @@ Once the Online Product Management System is installed and running, follow these
 ## LOCAL 
 
 DASHBOARD ![Screenshot 2024-02-23 020301](https://github.com/pratham102/New-Project/assets/108538504/b593d58f-9ebd-44b9-9df0-861106247041)
+
 REGISTRATION PAGE 
-(![Screenshot 2024-02-23 021244](https://github.com/pratham102/New-Project/assets/108538504/b4e71291-a2ec-4531-b926-3a64e9608a92)
-)
+![Screenshot 2024-02-23 021244](https://github.com/pratham102/New-Project/assets/108538504/b4e71291-a2ec-4531-b926-3a64e9608a92)
+
 
 
 
